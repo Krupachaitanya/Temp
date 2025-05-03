@@ -80,9 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Default contact numbers
     let CONTACT_NUMBERS = {
-        teacher: '911234567890',
-        hod: '911234567890',
-        office: '911234567890'
+        teacher: '9381900979',
+        hod: '9381900979',
+        office: '9381900979'
     };
     
     // Function to get department from roll number
@@ -768,9 +768,9 @@ document.addEventListener('DOMContentLoaded', function() {
             enableSound: document.getElementById('enable-sound').checked,
             enableVibration: document.getElementById('enable-vibration').checked,
             whatsappNumbers: {
-                teacher: teacherNumberInput.value.trim() || '911234567890',
-                hod: hodNumberInput.value.trim() || '911234567890',
-                office: officeNumberInput.value.trim() || '911234567890'
+                teacher: teacherNumberInput.value.trim() || '9381900979',
+                hod: hodNumberInput.value.trim() || '9381900979',
+                office: officeNumberInput.value.trim() || '9381900979'
             }
         };
         
